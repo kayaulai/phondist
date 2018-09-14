@@ -1,0 +1,10 @@
+Package: phondist
+Type: Package
+Title: Calculate Phonological Distances and Neighbourhoods in R
+Version: 0.1.0
+Author: Ryan Ka Yau Lai (kayaulai@connect.hku.hk)
+Maintainer: Ryan Ka Yau Lai (kayaulai@connect.hku.hk)
+Description: This package implements several phonological distances suggested in the literature. At the moment, only Levenshtein distance-based measures are available. Others will be added as the package progresses.
+License: CC-BY-SA
+Encoding: UTF-8
+LazyData: true
